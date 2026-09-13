@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <rect width="600" height="800" rx="28" fill="#fff7df"/>
+  <path d="M96 48h408v704l-204-118L96 752z" fill="#f2b84b"/>
+  <path d="M150 110h300v500l-150-86-150 86z" fill="#fffaf0"/>
+  <text x="300" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#24404a">Rezell</text>
+  <text x="300" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#24404a">CUSTOM NAME</text>
+</svg>
